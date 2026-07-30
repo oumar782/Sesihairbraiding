@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { ArrowRight, Star, Crown, Sparkles, Clock, Shield, Play, Quote, ChevronRight, Award, Scissors, Users, Heart, Leaf, Sun, Gem } from 'lucide-react';
-import './Home.css';
+import './home.css';
 
 export default function Home() {
   return (
