@@ -85,7 +85,7 @@ export default function About() {
             </h2>
             
             <p className="about-story-desc">
-              Sesi Okafor grew up in Bamako, Mali, watching her grandmother braid 
+              Senouma Sissoko  grew up in Bamako, Mali, watching her grandmother braid 
               hair on the veranda. What began as a childhood fascination became a 
               lifelong craft — and eventually, a calling.
             </p>

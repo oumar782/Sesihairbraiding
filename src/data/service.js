@@ -481,7 +481,7 @@ export const testimonials = [
 ];
 
 export const team = [
-  { name: 'Sesi Okafor', role: 'Founder & Master Braider', bio: 'With over 15 years of experience, Sesi founded SESI Air Braiding to bring luxury African braiding to Philadelphia. Trained in Lagos and New York, she blends tradition with modern artistry.', image: img.braidsSmiling, specialties: ['Knotless Braids', 'Boho Braids', 'French Curl'] },
+  { name: 'Senouma Sissoko', role: 'Founder & Master Braider', bio: 'With over 15 years of experience, Sesi founded SESI Air Braiding to bring luxury African braiding to Philadelphia. Trained in Lagos and New York, she blends tradition with modern artistry.', image: img.braidsSmiling, specialties: ['Knotless Braids', 'Boho Braids', 'French Curl'] },
   { name: 'Adaeze Nwosu', role: 'Senior Stylist', bio: 'Adaeze specializes in intricate cornrow designs and stitch braids. Her precision and creativity have earned her a loyal following across the city.', image: img.braidsSweater, specialties: ['Cornrows', 'Stitch Braids', 'Micros'] },
   { name: 'Zainab Ibrahim', role: 'Senior Stylist', bio: 'Zainab is our twist and loc specialist. She guides clients through their loc journey with patience and deep knowledge of natural hair care.', image: img.braidsGreen, specialties: ['Twist', 'Locs', 'Natural Hair'] },
   { name: 'Grace Mensah', role: 'Stylist', bio: 'Grace brings warmth and skill to every appointment. She excels at box braids and crochet installs with an eye for clean partings.', image: img.boxBraidsOrange, specialties: ['Box Braids', 'Crochet', 'Individual Braids'] },
