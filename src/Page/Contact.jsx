@@ -49,7 +49,7 @@ export default function Contact() {
   const info = [
     { Icon: MapPin, label: 'Visit Us', value: '1234 Broad Street, Philadelphia, PA 19121', detail: 'Find us in the heart of the city' },
     { Icon: Phone, label: 'Call Us', value: '(215) 555-0192', detail: 'Available during business hours' },
-    { Icon: Mail, label: 'Email Us', value: 'hello@sesiairbraiding.com', detail: 'We respond within 24 hours' },
+    { Icon: Mail, label: 'Email Us', value: 'hello@sesihairbraiding.com', detail: 'We respond within 24 hours' },
     { Icon: Clock, label: 'Hours', value: 'Tue–Sat: 9AM–7PM · Sun: 10AM–5PM · Mon: Closed', detail: 'Walk-ins welcome!' },
   ];
 

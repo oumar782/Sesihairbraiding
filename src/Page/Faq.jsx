@@ -102,7 +102,7 @@ export default function Faq() {
           </div>
           
           <p className="faq-hero-subtitle">
-            Everything you need to know before your visit to SESI Air Braiding. 
+            Everything you need to know before your visit to SESI Hair Braiding. 
             Find answers to the most common questions about our services.
           </p>
           

@@ -68,7 +68,7 @@ export default function Navbar({ currentPath }) {
             </div>
             <div className="nav-logo-text-group">
               <span className="nav-logo-text">SESI</span>
-              <span className="nav-logo-text-sub gold-text">Air Braiding</span>
+              <span className="nav-logo-text-sub gold-text">HAir Braiding</span>
             </div>
           </Link>
 

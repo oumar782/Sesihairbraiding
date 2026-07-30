@@ -55,7 +55,7 @@ export default function About() {
           </h1>
           
           <p className="about-hero-subtitle">
-            SESI Air Braiding was born from a passion for African hair artistry 
+            SESI HAir Braiding was born from a passion for African hair artistry 
             and a vision for luxury.
           </p>
           
@@ -80,19 +80,19 @@ export default function About() {
           <div className="about-story-text">
             <span className="eyebrow">The Beginning</span>
             <h2 className="about-story-title">
-              A Vision Born in Lagos, <br />
+              A Vision Born in Bamako, <br />
               <span className="about-story-title-gold">Refined in Philadelphia</span>
             </h2>
             
             <p className="about-story-desc">
-              Sesi Okafor grew up in Lagos, Nigeria, watching her grandmother braid 
+              Sesi Okafor grew up in Bamako, Mali, watching her grandmother braid 
               hair on the veranda. What began as a childhood fascination became a 
               lifelong craft — and eventually, a calling.
             </p>
             
             <p className="about-story-desc">
               After training in New York and working in top salons for over a decade, 
-              Sesi brought her vision to Philadelphia. She founded SESI Air Braiding 
+              Sesi brought her vision to Philadelphia. She founded SESI HAir Braiding 
               to offer something the city was missing: a truly luxury African braiding 
               experience where heritage meets modern elegance.
             </p>
@@ -106,7 +106,7 @@ export default function About() {
             
             <div className="about-story-signature">
               <div className="about-story-signature-line" />
-              <span className="about-story-signature-text">— Sesi Okafor, Founder</span>
+              <span className="about-story-signature-text">— Senouma Sissoko, Founder</span>
             </div>
           </div>
           

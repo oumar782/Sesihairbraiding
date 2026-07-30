@@ -103,7 +103,7 @@ export default function Footer() {
           <div>
             <div className="footer-logo">
               <span className="footer-logo-text">SESI</span>
-              <span className="footer-logo-text gold-text">Air Braiding</span>
+              <span className="footer-logo-text gold-text">HAir Braiding</span>
             </div>
             <p className="footer-desc">
               Philadelphia's premier luxury African hair braiding salon. Where heritage meets modern luxury, and every braid is a work of art.
@@ -119,7 +119,7 @@ export default function Footer() {
               </div>
               <div className="footer-contact-item">
                 <Mail size={16} className="footer-contact-icon" />
-                <span>hello@sesiairbraiding.com</span>
+                <span>hello@sesihairbraiding.com</span>
               </div>
             </div>
             <div className="footer-social">
